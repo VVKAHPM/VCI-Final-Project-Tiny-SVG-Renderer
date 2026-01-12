@@ -1,4 +1,4 @@
-### Tiny SVG Render
+### Tiny SVG Renderer
 
 - [x] 基本图形
   - [x] 矩形 
@@ -26,5 +26,5 @@
 - [ ] 渐变
 - [ ] 样式（Pattern）
 - [ ] ...
-- [ ] 中文路径
+- [x] 中文路径
 

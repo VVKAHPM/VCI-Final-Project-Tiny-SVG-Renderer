@@ -1,4 +1,4 @@
-# Tiny SVG Render
+# Tiny SVG Renderer
 
 该项目为北京大学 2025 秋季学期本科生课程 [可视计算与交互概论](https://vcl.pku.edu.cn/course/vci) (Introduction to Visual Computing and Interaction) 课程大作业。基于课程 [Lab0](https://vcl.pku.edu.cn/course/vci/lab0) 的代码框架开发，实现了一个简易的 SVG 渲染器。
 
@@ -22,8 +22,8 @@
 1. 克隆本仓库
 
 ```bash
-git clone https://github.com/VVKAHPM/VCI-Final-Project-Tiny-SVG-Render.git
-cd VCI-Final-Project-Tiny-SVG-Render
+git clone https://github.com/VVKAHPM/VCI-Final-Project-Tiny-SVG-Renderer.git
+cd VCI-Final-Project-Tiny-SVG-Renderer
 ```
 
 2. 进入项目主目录，执行如下命令，你将看到一个交互页面
@@ -44,7 +44,8 @@ xmake run svg
 5. 将当前渲染好的图片导出为 PNG 格式图片
 6. 画布，您的 SVG 文件将在这里渲染
 7. 放大镜效果
-8. 图片渲染好之后将在 UI 界面 `Export current SVG as PNG` 按钮下显示一条持续 2 秒的提示
+
+特别地，图片渲染好之后将在 UI 界面 `Export current SVG as PNG` 按钮下显示一条持续 2 秒的提示
 
 ## 3. 项目结构
 

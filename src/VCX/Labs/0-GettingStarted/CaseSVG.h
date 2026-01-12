@@ -14,7 +14,7 @@ namespace VCX::Labs::GettingStarted {
         CaseSVG();
         ~CaseSVG();
 
-        virtual std::string_view const GetName() override { return "Tiny SVG Render"; }
+        virtual std::string_view const GetName() override { return "Tiny SVG Renderer"; }
         
         virtual void OnSetupPropsUI() override;
         virtual Common::CaseRenderResult OnRender(std::pair<std::uint32_t, std::uint32_t> const desiredSize) override;
